@@ -1,5 +1,4 @@
-# Student_Record_Management_System
-"Core Java + JDBC CRUD Project for managing Students, Subjects, Departments, and Marks"
+
 # 🎓 Student Record Management System (Core Java + JDBC + Oracle)
 
 A simple console-based CRUD (Create, Read, Update, Delete) project built using **Core Java** and **Oracle Database**.  
